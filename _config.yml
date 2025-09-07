@@ -1,0 +1,13 @@
+title: 1st
+description: Notes
+url: "https://leonardbernstein.github.io"
+baseurl: "/1st"   # ← this matters for project sites (user/ORG.github.io/<repo>)
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  hard_wrap: false
