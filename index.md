@@ -11,8 +11,8 @@ Love this ladder, Pyromancer. here’s a tight, cleaned mapping with the natural
 | **gradient**     |  1 (monad) | scalar potential slope → field           | $\mathbf{E}=-\nabla \phi$ (or $\nabla \mu,\ \nabla T$)                                  | a single direction of drive                         | “one arrow exists.”     |
 | **e–q gradient** |   2 (dyad) | field acting on charge → work/force      | $\mathrm{d}W = q\,\mathbf{E}\!\cdot\!\mathrm{d}\mathbf{\ell}$, $\mathbf{F}=q\mathbf{E}$ | couples drive to a carrier                          | “drive meets bearer.”   |
 | **eeq**          |  3 (triad) | energy bookkeeping with charge present   | $U = \tfrac{1}{2} C V^2$ and $q=CV$ (or chemical $\Delta G = -zF\Delta\psi$)            | stores/transfers energy *because* q exists          | “capacity appears.”     |
-| **eh\nu q**      | 4 (tetrad) | quantization enters the game             | $E = h\nu$ while q sets coupling/selection                                              | discreteness of exchange + coupling                 | “packets now carry.”    |
-| **ep\lambda\nu q** | 5 (pentad) | full wave–particle kinematics + coupling | $E=h\nu,\ p=\tfrac{h}{\lambda},\ c=\lambda\nu$ with q                                   | energy, momentum, wave, and interaction all present | “a trafficked quantum.” |
+| **e $h\nu$ q**      | 4 (tetrad) | quantization enters the game             | $E = h\nu$ while q sets coupling/selection                                              | discreteness of exchange + coupling                 | “packets now carry.”    |
+| **e $p\lambda\nu$ q** | 5 (pentad) | full wave–particle kinematics + coupling | $E=h\nu,\ p=\tfrac{h}{\lambda},\ c=\lambda\nu$ with q                                   | energy, momentum, wave, and interaction all present | “a trafficked quantum.” |
 
 ### how to use it
 
